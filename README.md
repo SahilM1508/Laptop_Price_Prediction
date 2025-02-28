@@ -29,7 +29,7 @@ A **Streamlit-powered web app** that predicts laptop prices based on various fea
 
 ### 1️⃣ Clone the repository:  
 ```bash
-git clone https://github.com/yourusername/laptop_price_prediction.git
+git clone https://github.com/SahilM1508/laptop_price_prediction.git
 cd laptop_price_prediction
 ```
 
@@ -47,7 +47,6 @@ streamlit run app/app.py
 
 ## 📊 Dataset  
 The dataset contains laptop specifications such as brand, RAM, storage, processor, and GPU along with their prices. You can use publicly available datasets or scrape data from e-commerce websites.
-
 ---
 
 ## 📌 Future Enhancements  
@@ -55,17 +54,8 @@ The dataset contains laptop specifications such as brand, RAM, storage, processo
 🔹 Add **real-time web scraping** for price comparisons  
 🔹 Enhance UI with **more visualization & filters**  
 
----
-
-## 🤝 Contributing  
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
----
-
 ## 📜 License  
 This project is licensed under the MIT License.
-
 ---
 
 ### ⭐ Don't forget to give this repository a star if you found it useful!
-
